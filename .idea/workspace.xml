@@ -13,9 +13,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="350">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="e#481#482#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
@@ -52,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
                 <element signature="e#468#469#0" expanded="true" />
                 <element signature="e#522#523#0" expanded="true" />
@@ -139,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android Instrumented Tests.Tests in 'com.openclassrooms.magicgithub'">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -297,10 +294,15 @@
     <history-entry file="Tests_in_'com_openclassrooms_magicgithub' - 2019.08.31 at 17h 01m 52s.xml">
       <configuration name="Tests in 'com.openclassrooms.magicgithub'" configurationId="AndroidTestRunConfigurationType" />
     </history-entry>
+    <history-entry file="magicgithub_in_app - 2019.08.31 at 17h 22m 48s.xml">
+      <configuration name="magicgithub in app" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Tests_in_'com_openclassrooms_magicgithub' - 2019.08.31 at 17h 23m 29s.xml">
+      <configuration name="Tests in 'com.openclassrooms.magicgithub'" configurationId="AndroidTestRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2409" height="1455" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.15879098" />
       <window_info id="Structure" side_tool="true" />
@@ -338,7 +340,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="e#468#469#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
@@ -350,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/openclassrooms/magicgithub/api/FakeApiService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="350">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="e#481#482#0" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
